@@ -1,0 +1,12 @@
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\bin\Debug\Ressource\cavalier.jpg
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\bin\Debug\Ressource\cavjeu.PNG
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\bin\Debug\ProjetCavalierEssai.exe.config
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\bin\Debug\ProjetCavalierEssai.exe
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\bin\Debug\ProjetCavalierEssai.pdb
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\obj\Debug\ProjetCavalierEssai.Form1.resources
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\obj\Debug\ProjetCavalierEssai.PageAceuil.resources
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\obj\Debug\ProjetCavalierEssai.Properties.Resources.resources
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\obj\Debug\ProjetCavalierEssai.csproj.GenerateResource.Cache
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\obj\Debug\ProjetCavalierEssai.exe
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\obj\Debug\ProjetCavalierEssai.pdb
+C:\Users\ali\Desktop\JEUX EN C#\ProjetCavalierEssai\obj\Debug\ProjetCavalierEssai.csprojResolveAssemblyReference.cache
