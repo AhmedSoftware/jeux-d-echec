@@ -1,6 +1,7 @@
 # Problème du cavalier
 
 Le but de ce programme est de résoudre le problème du cavalier d'Euler. Un cavalier posé sur une case quelconque d'un d'échiquier doit en visiter toutes les cases sans passer deux fois sur la même. 
+
 ![demonstration](./Ressource/heuristique.gif)
 
 
